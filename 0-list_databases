@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 //list all databases
+=======
+//list databases
+>>>>>>> Removed 0x01-NoSQL from git tracking
 
 show databases
